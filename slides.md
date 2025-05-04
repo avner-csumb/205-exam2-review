@@ -1,5 +1,5 @@
 ---
-theme: seriph
+# theme: seriph
 background: https://cover.sli.dev
 title: Exam \#2 Review
 info: |
@@ -52,6 +52,12 @@ CST 205
   name = "Yoshi"
   print(f"Hello, {name}! \u2606")
   ```
+
+
+---
+
+# General Python (Part 3)
+
 * **Built‑ins**: `len()`, `range()`, `split()`, `sort()`
 
   * Example: split RGB list by 'X'
