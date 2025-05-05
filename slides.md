@@ -52,7 +52,7 @@ This review will be organized into the following sections:
 
 
 
-# General Python
+## General Python
 
 
 **Running Python**
@@ -82,7 +82,7 @@ my_tuple.sort()
 
 ---
 
-# General Python (cont.)
+## General Python (cont.)
 
 <br>
 
@@ -112,7 +112,7 @@ my_tuple.sort()
 
 ---
 
-# General Python (cont.)
+## General Python (cont.)
 
 <br>
 
@@ -193,7 +193,7 @@ class MediaLibrary:
 
 ---
 
-# Digital Images
+## Digital Images
 
 <br>
 
@@ -209,7 +209,7 @@ class MediaLibrary:
 
 ---
 
-# Desktop GUI (Qt / PySide6)
+## Desktop GUI (Qt / PySide6)
 
 <v-clicks>
 
@@ -228,7 +228,7 @@ class MediaLibrary:
 
 ---
 
-# Digital Audio
+## Digital Audio
 
 <v-clicks depth="2">
 
@@ -253,7 +253,7 @@ class MediaLibrary:
 
 ---
 
-# Web Programming (Flask)
+## Web Programming (Flask)
 
 
 <v-clicks depth="2">
@@ -280,7 +280,7 @@ class MediaLibrary:
 
 ---
 
-# APIs & Web Scraping
+## APIs & Web Scraping
 
 
 <v-clicks>
@@ -306,7 +306,7 @@ class MediaLibrary:
 
 ---
 
-# NumPy
+## NumPy
 
 <v-clicks>
 
@@ -324,7 +324,7 @@ class MediaLibrary:
 
 ---
 
-# Computer Vision (OpenCV)
+## Computer Vision (OpenCV)
 
 <v-clicks>
 
@@ -344,7 +344,7 @@ class MediaLibrary:
 
 ---
 
-# Version Control & CLI
+## Version Control & CLI
 
 <v-clicks>
 
