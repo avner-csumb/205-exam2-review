@@ -22,7 +22,7 @@ CST 205
 <v-clicks>
 
 - **Exam on Canvas** (closed-note)
-- **Allowed:** 4 sheets (8 sides) of handwritten and/or typed notes
+- **Allowed:** 3 sheets (6 sides) of handwritten and/or typed notes
 - **Not allowed:** running Python code, internet/course material search, ChatGPT
 
 </v-clicks>
@@ -70,6 +70,7 @@ my_list.sort()
 print(my_list)
 ```
 
+<br>
 
 <v-click>
 
